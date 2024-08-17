@@ -1,0 +1,1 @@
+An application for saving blog urls
